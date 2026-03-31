@@ -1,5 +1,5 @@
 :root {
-    --minute-width: clamp(0.5px, 0.08vw, 1.5px);; /* Controls how "stretched" the timeline is */
+    --minute-width: clamp(0.1px, 0.08vw, 1.5px); /* Controls how "stretched" the timeline is */
     --hour-width: calc(var(--minute-width) * 60);
     --bg-color: #f4f4f9;
     --ucsb-navy: #003660;
@@ -52,7 +52,7 @@ img {
     background: white;
     border-radius: 12px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    height: 60px;
+    height: calc(var(--hour-width)*0.8 + 10px);
     position: fixed;
     z-index: 100000;
     top: 15%;
@@ -96,8 +96,7 @@ img {
     background: var(--ucsb-gold);
     border: 1px solid #d49a15;
     border-radius: 4px;
-    font-size: 0.6rem;
-    padding: 2px;
+    font-size: calc(var(--minute-width) * 8);
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -112,7 +111,7 @@ img {
 .time {
     position: relative;
     top: 10%;
-    font-size: 0.6rem;
+    font-size: calc(var(--minute-width) * 9);
 }
 
 .dynamic-circle {
@@ -128,7 +127,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 0.8rem;
+    font-size: clamp(1px, 1vw, 16px);
     font-weight: bold;
     border: 1px solid #ccc; /* Helps white circles stand out on the map */
 }
