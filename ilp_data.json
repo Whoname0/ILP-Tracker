@@ -1,0 +1,4005 @@
+[
+  {
+    "day": "M",
+    "rooms": [
+      {
+        "id": "1101",
+        "events": [
+          {
+            "course": "CMPSC64",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "HIST88",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "MCDB134",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "1203",
+        "events": [
+          {
+            "course": "CHEM109A",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "CHEM109B",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "CHEM109C",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "CHEM109C",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "ECON10A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "MATH34B",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "MCDB101B",
+            "start": 480,
+            "end": 530
+          }
+        ]
+      },
+      {
+        "id": "1302",
+        "events": [
+          {
+            "course": "CMPSC16",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "ECE139",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH6B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "MCDB146",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "MCDB246",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "PSY148",
+            "start": 1020,
+            "end": 1190
+          },
+          {
+            "course": "SOC10",
+            "start": 480,
+            "end": 555
+          }
+        ]
+      },
+      {
+        "id": "2101",
+        "events": [
+          {
+            "course": "CMPSC111",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "CMPSC130B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "CNCSP110",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH6A",
+            "start": 600,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "2207",
+        "events": [
+          {
+            "course": "ECON5",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "PHYS228",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "TMP120",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "TMP120",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP191AI",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "TMP191AI",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "2209",
+        "events": [
+          {
+            "course": "GEOG115C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "TMP124",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "TMP191L",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "2211",
+        "events": [
+          {
+            "course": "COMM160OH",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "COMM185",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ECE179D",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "LAIS10",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "ME179D",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "ME189C",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "PSY151",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "2302",
+        "events": [
+          {
+            "course": "GEOG5",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "MCDB1A",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "MCDB135",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PSY145",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3101",
+        "events": [
+          {
+            "course": "PHIL1",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "WRIT2",
+            "start": 480,
+            "end": 590
+          },
+          {
+            "course": "WRIT105M",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3103",
+        "events": [
+          {
+            "course": "ECE594BB",
+            "start": 1080,
+            "end": 1190
+          },
+          {
+            "course": "ECE594Z",
+            "start": 1080,
+            "end": 1190
+          },
+          {
+            "course": "LING137",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "PSY1",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "WRIT1",
+            "start": 480,
+            "end": 590
+          },
+          {
+            "course": "WRIT105PS",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3105",
+        "events": [
+          {
+            "course": "LING62",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "LING113",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "MATH34A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "MATH34A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "PSY1",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "WRIT107EP",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "WRIT109V",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "WRIT150",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "3107",
+        "events": [
+          {
+            "course": "ANTH2",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "FEMST20",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "PHIL3",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT2",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT2",
+            "start": 720,
+            "end": 830
+          },
+          {
+            "course": "WRIT2",
+            "start": 900,
+            "end": 1010
+          }
+        ]
+      },
+      {
+        "id": "3205",
+        "events": [
+          {
+            "course": "ENGL10",
+            "start": 900,
+            "end": 1010
+          },
+          {
+            "course": "FEMST20",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "ME221",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT105CR",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "WRIT105G",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "3207",
+        "events": [
+          {
+            "course": "ANTH197FM",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "CLIT148",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ENGL101ML",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PHIL1",
+            "start": 1080,
+            "end": 1130
+          }
+        ]
+      },
+      {
+        "id": "3209",
+        "events": [
+          {
+            "course": "COMM174",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "CLIT114",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "LING32",
+            "start": 1080,
+            "end": 1130
+          }
+        ]
+      },
+      {
+        "id": "3211",
+        "events": [
+          {
+            "course": "LING125",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "PHIL1",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT50E",
+            "start": 600,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "3310",
+        "events": [
+          {
+            "course": "ECE139",
+            "start": 480,
+            "end": 590
+          },
+          {
+            "course": "LING32",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "LING135",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PHIL100A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "WRIT2",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT2",
+            "start": 840,
+            "end": 950
+          }
+        ]
+      },
+      {
+        "id": "3312",
+        "events": [
+          {
+            "course": "MARINCS100B",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "CHST1C",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "LATIN3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "LING137",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "LING137",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "MCDB110",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "3314",
+        "events": [
+          {
+            "course": "ECE157C",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "ECE271A",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "ECE272C",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "ENGL171NH",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "PHIL1",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "WRIT2",
+            "start": 780,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "3316",
+        "events": [
+          {
+            "course": "CHEM130C",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "CHEM130C",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "ECE201A",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "PHIL100A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT1",
+            "start": 780,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4101",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "ENGL171NH",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "LING148AA",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "PHIL1",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "WRIT1",
+            "start": 660,
+            "end": 770
+          },
+          {
+            "course": "WRIT50",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "WRIT105CD",
+            "start": 1020,
+            "end": 1095
+          }
+        ]
+      },
+      {
+        "id": "4103",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "MCDB110",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "PHIL183",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "WRIT1",
+            "start": 540,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "4105",
+        "events": [
+          {
+            "course": "EEMB290",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "FEMST20",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "MCDB110",
+            "start": 840,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4107",
+        "events": [
+          {
+            "course": "PSY150L",
+            "start": 600,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "4205",
+        "events": [
+          {
+            "course": "PSY1",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PSY155L",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "WRIT2",
+            "start": 1020,
+            "end": 1130
+          },
+          {
+            "course": "WRIT105CR",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "4207",
+        "events": [
+          {
+            "course": "ECE162C",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT2",
+            "start": 780,
+            "end": 890
+          },
+          {
+            "course": "WRIT105R",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "4209",
+        "events": [
+          {
+            "course": "W&LCS143",
+            "start": 780,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4211",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "MCDB224",
+            "start": 480,
+            "end": 560
+          },
+          {
+            "course": "PSY1",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "T",
+    "rooms": [
+      {
+        "id": "1101",
+        "events": [
+          {
+            "course": "CLASS190",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "CMPSC40",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "HIST49C",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "PSY137",
+            "start": 1020,
+            "end": 1095
+          }
+        ]
+      },
+      {
+        "id": "1203",
+        "events": [
+          {
+            "course": "ARTHI6B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "ECON10A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "HIST4C",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "MCDB110",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "PSY105",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "PSY108",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "1302",
+        "events": [
+          {
+            "course": "ECON134A",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ECE10C",
+            "start": 1020,
+            "end": 1095
+          },
+          {
+            "course": "ECE130B",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "FEMST60",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "MATH104C",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "ASTRO1",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "PHYS110A",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "2101",
+        "events": [
+          {
+            "course": "ECON150A",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "HIST8B",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH6A",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "PSY134",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "PSY140",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "2207",
+        "events": [
+          {
+            "course": "ECON5",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "TMP120",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "TMP120",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP191VC",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "TMP191VC",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "2209",
+        "events": [
+          {
+            "course": "ECON5",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "ECON5",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "ECON5",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "ESS150",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "TMP122",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "TMP122",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP124",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "2211",
+        "events": [
+          {
+            "course": "COMM114",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "CMPSC156",
+            "start": 1020,
+            "end": 1095
+          },
+          {
+            "course": "ESS130",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "GEOG176C",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "SOC185C",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "TMP191BI",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP191SP",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "2302",
+        "events": [
+          {
+            "course": "CMPSC190N",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "EEMB102",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH104C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "MCDB153",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "MCDB253",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3101",
+        "events": [
+          {
+            "course": "ECON140A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "GLOBL140",
+            "start": 1140,
+            "end": 1190
+          }
+        ]
+      },
+      {
+        "id": "3103",
+        "events": [
+          {
+            "course": "ANTH2",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "ECON140A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "GLOBL1",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "MATH3A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "WRIT2",
+            "start": 780,
+            "end": 890
+          },
+          {
+            "course": "WRIT2",
+            "start": 900,
+            "end": 1010
+          }
+        ]
+      },
+      {
+        "id": "3105",
+        "events": [
+          {
+            "course": "ECON10A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "ENGL15",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "ENGL15",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "GLOBL1",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "MATH34B",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "MATH201C",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "WRIT2",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "3107",
+        "events": [
+          {
+            "course": "ENGL15",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "ENGL15",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "LING36",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "MATH34B",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "MATH225C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PHYS180",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT159B",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3205",
+        "events": [
+          {
+            "course": "ECE141B",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ENGL15",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "HIST9",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "LING108",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "MATH34A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "MATH260R",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "ME141B",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3207",
+        "events": [
+          {
+            "course": "ANTH2",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "ECON140A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "ENGL104LC",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "MCDB256",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "PHIL100F",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "WRIT2",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "WRIT107J",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3209",
+        "events": [
+          {
+            "course": "ANTH2",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "CLASS40",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "ECON140A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "ENGL104LC",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "ENGL128JG",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "MCDB26",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "POLS106AI",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3211",
+        "events": [
+          {
+            "course": "ECON140A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "LING36",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "PHIL20C",
+            "start": 900,
+            "end": 950
+          }
+        ]
+      },
+      {
+        "id": "3310",
+        "events": [
+          {
+            "course": "MATRL286M",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "ME258",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "PSY1",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "3312",
+        "events": [
+          {
+            "course": "LING108",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "MCDB248",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3314",
+        "events": [
+          {
+            "course": "PHIL1",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "PHIL100F",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "PHYS221C",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT105SO",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3316",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "INT87AL",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "MATH221C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PSY1",
+            "start": 1020,
+            "end": 1095
+          }
+        ]
+      },
+      {
+        "id": "4101",
+        "events": [
+          {
+            "course": "CHEM111",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ECE262",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "GEOG166",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "WRIT107P",
+            "start": 480,
+            "end": 555
+          }
+        ]
+      },
+      {
+        "id": "4103",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "CHST1C",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "CLIT101",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ENGL15",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "FEMST163",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "4105",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "ESS100",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "ESS130",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "WRIT2",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT155B",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "4107",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "ECE230B",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "ME243B",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT2",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "WRIT20",
+            "start": 720,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "4205",
+        "events": [
+          {
+            "course": "ECON137AH",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "WRIT2",
+            "start": 720,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "4207",
+        "events": [
+          {
+            "course": "W&LCS141B",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "PHIL1",
+            "start": 840,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4209",
+        "events": [
+          {
+            "course": "ENGL122UE",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "GLOBL193",
+            "start": 780,
+            "end": 950
+          },
+          {
+            "course": "HIST174Q",
+            "start": 780,
+            "end": 950
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "4211",
+        "events": [
+          {
+            "course": "ENGL15",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "MCDB224",
+            "start": 480,
+            "end": 560
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "W",
+    "rooms": [
+      {
+        "id": "1101",
+        "events": [
+          {
+            "course": "CMPSC64",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "HIST88",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "MCDB134",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "1203",
+        "events": [
+          {
+            "course": "CHEM109A",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "CHEM109B",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "CHEM109C",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "CHEM109C",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "ECON10A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "MATH34B",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "MCDB101B",
+            "start": 480,
+            "end": 530
+          }
+        ]
+      },
+      {
+        "id": "1302",
+        "events": [
+          {
+            "course": "CMPSC16",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "ECE139",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH6B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "MCDB146",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "MCDB246",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "SOC10",
+            "start": 480,
+            "end": 555
+          }
+        ]
+      },
+      {
+        "id": "2101",
+        "events": [
+          {
+            "course": "CMPSC111",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "CMPSC130B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "CNCSP110",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH6A",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "MCDB187",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "MCDB269",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "2207",
+        "events": [
+          {
+            "course": "CMPSC156",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "CMPSC156",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "ECON5",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1140,
+            "end": 1250
+          },
+          {
+            "course": "PHYS228",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "TMP120",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "TMP120",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP191AI",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "TMP191AI",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "2209",
+        "events": [
+          {
+            "course": "GEOG115C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1140,
+            "end": 1250
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1020,
+            "end": 1130
+          },
+          {
+            "course": "PSY160AW",
+            "start": 540,
+            "end": 710
+          },
+          {
+            "course": "TMP124",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "TMP191L",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "2211",
+        "events": [
+          {
+            "course": "COMM160OH",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "COMM185",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ECE179D",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "LAIS10",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "ME16",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "ME179D",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "ME189C",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "PSY151",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "2302",
+        "events": [
+          {
+            "course": "GEOG5",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "MCDB1A",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "MCDB135",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PSY145",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3101",
+        "events": [
+          {
+            "course": "GLOBL2",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "GLOBL140",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "MATH34B",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT2",
+            "start": 480,
+            "end": 590
+          },
+          {
+            "course": "WRIT105M",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3103",
+        "events": [
+          {
+            "course": "ECE594BB",
+            "start": 1080,
+            "end": 1190
+          },
+          {
+            "course": "ECE594Z",
+            "start": 1080,
+            "end": 1190
+          },
+          {
+            "course": "MATH34A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "SOC10",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "WRIT1",
+            "start": 480,
+            "end": 590
+          },
+          {
+            "course": "WRIT105PS",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3105",
+        "events": [
+          {
+            "course": "INTCS120",
+            "start": 960,
+            "end": 1100
+          },
+          {
+            "course": "GLOBL1",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "LING62",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "LING113",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "WRIT107EP",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "WRIT109V",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "WRIT150",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "3107",
+        "events": [
+          {
+            "course": "CLASS40",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "ECON10A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "ENGL87LL",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "GLOBL2",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT2",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT2",
+            "start": 720,
+            "end": 830
+          },
+          {
+            "course": "WRIT2",
+            "start": 900,
+            "end": 1010
+          }
+        ]
+      },
+      {
+        "id": "3205",
+        "events": [
+          {
+            "course": "CLASS40",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "ECON10A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "ECON140B",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "ENGL10",
+            "start": 900,
+            "end": 1010
+          },
+          {
+            "course": "ME221",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT105CR",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "WRIT105G",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "3207",
+        "events": [
+          {
+            "course": "ANTH197FM",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "CLIT148",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ENGL101ML",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "GLOBL1",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "GLOBL1",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "HIST9",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "LING36",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "MATH3B",
+            "start": 480,
+            "end": 530
+          }
+        ]
+      },
+      {
+        "id": "3209",
+        "events": [
+          {
+            "course": "COMM174",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "CLIT114",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "LAIS165",
+            "start": 840,
+            "end": 1010
+          },
+          {
+            "course": "LING36",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "MATH34B",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "PHIL4",
+            "start": 1080,
+            "end": 1130
+          }
+        ]
+      },
+      {
+        "id": "3211",
+        "events": [
+          {
+            "course": "MATH34A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "PHIL20C",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "PHIL183",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT50E",
+            "start": 600,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "3310",
+        "events": [
+          {
+            "course": "ARTCS5",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "ECON134A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "FEMST20",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "LAIS7",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "LING135",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "WRIT2",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT2",
+            "start": 840,
+            "end": 950
+          }
+        ]
+      },
+      {
+        "id": "3312",
+        "events": [
+          {
+            "course": "MARINCS100B",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "ANTH2",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "CHST1C",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "CHST1C",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "LATIN3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "PHIL100A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "3314",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "CHST1C",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "ECE271A",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "FEMST20",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "WRIT2",
+            "start": 780,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "3316",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "ECE157C",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "ECE201A",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "ECE272C",
+            "start": 1140,
+            "end": 1310
+          },
+          {
+            "course": "ENGL103WT",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "GLOBL2",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "SOC10",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "WRIT1",
+            "start": 780,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4101",
+        "events": [
+          {
+            "course": "ECON134A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "ENGL15",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "PSY592DV",
+            "start": 870,
+            "end": 990
+          },
+          {
+            "course": "WRIT1",
+            "start": 660,
+            "end": 770
+          },
+          {
+            "course": "WRIT50",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "WRIT105CD",
+            "start": 1020,
+            "end": 1095
+          }
+        ]
+      },
+      {
+        "id": "4103",
+        "events": [
+          {
+            "course": "LING36",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "MCDB194KF",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "SOC10",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "WRIT1",
+            "start": 540,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "4105",
+        "events": [
+          {
+            "course": "ANTH2",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "EEMB290",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "PHIL1",
+            "start": 840,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4107",
+        "events": [
+          {
+            "course": "FEMST20",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "LING140",
+            "start": 960,
+            "end": 1130
+          },
+          {
+            "course": "WRIT291AA",
+            "start": 720,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4205",
+        "events": [
+          {
+            "course": "CMPSC190J",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "ENGL15",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "WRIT2",
+            "start": 1020,
+            "end": 1130
+          },
+          {
+            "course": "WRIT105CR",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "4207",
+        "events": [
+          {
+            "course": "ECE162C",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT2",
+            "start": 780,
+            "end": 890
+          },
+          {
+            "course": "WRIT105R",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "4209",
+        "events": [
+          {
+            "course": "W&LCS143",
+            "start": 780,
+            "end": 890
+          },
+          {
+            "course": "ENGL115",
+            "start": 540,
+            "end": 590
+          }
+        ]
+      },
+      {
+        "id": "4211",
+        "events": [
+          {
+            "course": "CHEM113C",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "CHEM113C",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "MCDB224",
+            "start": 480,
+            "end": 560
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "R",
+    "rooms": [
+      {
+        "id": "1101",
+        "events": [
+          {
+            "course": "CLASS190",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "CMPSC40",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "HIST49C",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "PSY137",
+            "start": 1020,
+            "end": 1095
+          }
+        ]
+      },
+      {
+        "id": "1203",
+        "events": [
+          {
+            "course": "ARTHI6B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "ECON10A",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "HIST4C",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "MCDB110",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "PSY105",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "PSY108",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "1302",
+        "events": [
+          {
+            "course": "ECON134A",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ECE10C",
+            "start": 1020,
+            "end": 1095
+          },
+          {
+            "course": "ECE130B",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "FEMST60",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "MATH104C",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "ASTRO1",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "PHYS110A",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "2101",
+        "events": [
+          {
+            "course": "ART1C",
+            "start": 1020,
+            "end": 1130
+          },
+          {
+            "course": "ART261",
+            "start": 1020,
+            "end": 1130
+          },
+          {
+            "course": "ECON150A",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "HIST8B",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH6A",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "PSY134",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "PSY140",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "2207",
+        "events": [
+          {
+            "course": "CMPSC154",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "ECON5",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1140,
+            "end": 1250
+          },
+          {
+            "course": "TMP120",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "TMP120",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP191VC",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "TMP191VC",
+            "start": 570,
+            "end": 645
+          }
+        ]
+      },
+      {
+        "id": "2209",
+        "events": [
+          {
+            "course": "ECON5",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "ESS150",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1140,
+            "end": 1250
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1020,
+            "end": 1130
+          },
+          {
+            "course": "TMP122",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "TMP122",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP124",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "2211",
+        "events": [
+          {
+            "course": "COMM114",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "CMPSC156",
+            "start": 1020,
+            "end": 1095
+          },
+          {
+            "course": "ESS130",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "GEOG176C",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "SOC185C",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "TMP191BI",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "TMP191SP",
+            "start": 930,
+            "end": 1005
+          }
+        ]
+      },
+      {
+        "id": "2302",
+        "events": [
+          {
+            "course": "CMPSC190N",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "EEMB102",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "MATH104C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "MCDB153",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "MCDB253",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3101",
+        "events": [
+          {
+            "course": "ECON10A",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "GLOBL140",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "MCDB110",
+            "start": 1020,
+            "end": 1070
+          }
+        ]
+      },
+      {
+        "id": "3103",
+        "events": [
+          {
+            "course": "GLOBL1",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "GLOBL2",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "LING36",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "MATH34B",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "SOC1",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "WRIT2",
+            "start": 780,
+            "end": 890
+          },
+          {
+            "course": "WRIT2",
+            "start": 900,
+            "end": 1010
+          }
+        ]
+      },
+      {
+        "id": "3105",
+        "events": [
+          {
+            "course": "ECE6",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "MATH201C",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "PHIL20C",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "WRIT2",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "3107",
+        "events": [
+          {
+            "course": "ECON140A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "MATH225C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PHIL4",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "PHYS180",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT159B",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3205",
+        "events": [
+          {
+            "course": "ECON140A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "ECE141B",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "HIST9",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "LING115",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "MATH260R",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "ME141B",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "PHYS29",
+            "start": 1020,
+            "end": 1070
+          }
+        ]
+      },
+      {
+        "id": "3207",
+        "events": [
+          {
+            "course": "ECON10A",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "MCDB256",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "PHIL100B",
+            "start": 1080,
+            "end": 1130
+          },
+          {
+            "course": "WRIT2",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "WRIT107J",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3209",
+        "events": [
+          {
+            "course": "MARINCS100B",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "COMM89",
+            "start": 1080,
+            "end": 1190
+          },
+          {
+            "course": "ENGL128JG",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "LING104",
+            "start": 480,
+            "end": 650
+          },
+          {
+            "course": "MCDB110",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "PHIL100B",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "POLS106AI",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3211",
+        "events": [
+          {
+            "course": "COMM89",
+            "start": 1080,
+            "end": 1190
+          },
+          {
+            "course": "CLIT31",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "EEMB102",
+            "start": 960,
+            "end": 1010
+          }
+        ]
+      },
+      {
+        "id": "3310",
+        "events": [
+          {
+            "course": "MATRL286M",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "ME258",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "PSY1",
+            "start": 1020,
+            "end": 1095
+          },
+          {
+            "course": "SOC1",
+            "start": 960,
+            "end": 1010
+          }
+        ]
+      },
+      {
+        "id": "3312",
+        "events": [
+          {
+            "course": "CHEM1A",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "CHEM1A",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "ECE6",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "MCDB248",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "3314",
+        "events": [
+          {
+            "course": "ANTH2",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "PHIL3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "PHYS29",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "PHYS221C",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "WRIT105SO",
+            "start": 840,
+            "end": 915
+          }
+        ]
+      },
+      {
+        "id": "3316",
+        "events": [
+          {
+            "course": "ANTH2",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "ANTH2",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "CLIT30C",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "FEMST186EG",
+            "start": 900,
+            "end": 1070
+          },
+          {
+            "course": "MATH221C",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "4101",
+        "events": [
+          {
+            "course": "CHEM111",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ECE262",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "GEOG166",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "WRIT107P",
+            "start": 480,
+            "end": 555
+          }
+        ]
+      },
+      {
+        "id": "4103",
+        "events": [
+          {
+            "course": "CLIT31",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "CLIT101",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "CMPSC170",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "FEMST163",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PHIL3",
+            "start": 840,
+            "end": 890
+          }
+        ]
+      },
+      {
+        "id": "4105",
+        "events": [
+          {
+            "course": "COMM89",
+            "start": 960,
+            "end": 1070
+          },
+          {
+            "course": "ESS100",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "ESS130",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "WRIT2",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT155B",
+            "start": 660,
+            "end": 735
+          }
+        ]
+      },
+      {
+        "id": "4107",
+        "events": [
+          {
+            "course": "ECON10A",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "ECE230B",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "ME243B",
+            "start": 600,
+            "end": 710
+          },
+          {
+            "course": "WRIT2",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "WRIT20",
+            "start": 720,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "4205",
+        "events": [
+          {
+            "course": "CHEM113C",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "CHEM113C",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "CLIT30C",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "ECON137AH",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "ECON137BH",
+            "start": 480,
+            "end": 555
+          },
+          {
+            "course": "WRIT2",
+            "start": 720,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "4207",
+        "events": [
+          {
+            "course": "W&LCS141B",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "ASAM9",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "CHEM1A",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "MCDB110",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "MCDB118",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "PHIL3",
+            "start": 900,
+            "end": 950
+          }
+        ]
+      },
+      {
+        "id": "4209",
+        "events": [
+          {
+            "course": "EEMB102",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "ENGL122UE",
+            "start": 660,
+            "end": 735
+          },
+          {
+            "course": "ASTRO1H",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "4211",
+        "events": [
+          {
+            "course": "EEMB102",
+            "start": 900,
+            "end": 950
+          },
+          {
+            "course": "MCDB224",
+            "start": 480,
+            "end": 560
+          },
+          {
+            "course": "WRIT2",
+            "start": 660,
+            "end": 770
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "F",
+    "rooms": [
+      {
+        "id": "1101",
+        "events": []
+      },
+      {
+        "id": "1203",
+        "events": [
+          {
+            "course": "CHEM109A",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "CHEM109B",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "CHEM109C",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "CHEM109C",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "MATH34B",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "MCDB101B",
+            "start": 480,
+            "end": 530
+          }
+        ]
+      },
+      {
+        "id": "1302",
+        "events": []
+      },
+      {
+        "id": "2101",
+        "events": [
+          {
+            "course": "MATH6A",
+            "start": 600,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "2207",
+        "events": [
+          {
+            "course": "EEMB3",
+            "start": 480,
+            "end": 530
+          },
+          {
+            "course": "EEMB3",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "INT34LE",
+            "start": 600,
+            "end": 770
+          },
+          {
+            "course": "PHYS7B",
+            "start": 900,
+            "end": 1010
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1020,
+            "end": 1130
+          }
+        ]
+      },
+      {
+        "id": "2209",
+        "events": [
+          {
+            "course": "PHYS7B",
+            "start": 900,
+            "end": 1010
+          },
+          {
+            "course": "PHYS7B",
+            "start": 1020,
+            "end": 1130
+          }
+        ]
+      },
+      {
+        "id": "2211",
+        "events": [
+          {
+            "course": "ME189C",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "MCDB1A",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "PHYS7A",
+            "start": 660,
+            "end": 770
+          },
+          {
+            "course": "PHYS7A",
+            "start": 840,
+            "end": 950
+          }
+        ]
+      },
+      {
+        "id": "2302",
+        "events": [
+          {
+            "course": "GEOG5",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "MCDB1A",
+            "start": 540,
+            "end": 590
+          }
+        ]
+      },
+      {
+        "id": "3101",
+        "events": [
+          {
+            "course": "ECE178",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "GLOBL1",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "GLOBL1",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "GLOBL2",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GLOBL2",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "GLOBL2",
+            "start": 780,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "3103",
+        "events": [
+          {
+            "course": "COMM1",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "CMPSC130B",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "GLOBL1",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "MCDB110",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "MCDB194ZM",
+            "start": 600,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "3105",
+        "events": [
+          {
+            "course": "CMPSC190N",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "ECE6",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "ECE594F",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "MCDB110",
+            "start": 540,
+            "end": 590
+          }
+        ]
+      },
+      {
+        "id": "3107",
+        "events": [
+          {
+            "course": "COMM89",
+            "start": 480,
+            "end": 590
+          },
+          {
+            "course": "ECON10A",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "ECE178",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "GLOBL1",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "PHYS29",
+            "start": 720,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "3205",
+        "events": [
+          {
+            "course": "COMM1",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "COMM89",
+            "start": 480,
+            "end": 590
+          },
+          {
+            "course": "CMPSC130B",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "CMPSC130B",
+            "start": 780,
+            "end": 830
+          },
+          {
+            "course": "EEMB102",
+            "start": 600,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "3207",
+        "events": [
+          {
+            "course": "COMM1",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "GLOBL130",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "HIST9",
+            "start": 840,
+            "end": 915
+          },
+          {
+            "course": "LAIS10",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "LAIS10",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "MCDB110",
+            "start": 780,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "3209",
+        "events": [
+          {
+            "course": "COMM88",
+            "start": 780,
+            "end": 890
+          },
+          {
+            "course": "ECE6",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "GLOBL1",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "MCDB110",
+            "start": 720,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "3211",
+        "events": [
+          {
+            "course": "COMM1",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GLOBL110",
+            "start": 720,
+            "end": 770
+          },
+          {
+            "course": "PHYS29",
+            "start": 660,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "3310",
+        "events": [
+          {
+            "course": "COMM1",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "COMM89",
+            "start": 720,
+            "end": 830
+          },
+          {
+            "course": "PHYS29",
+            "start": 660,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "3312",
+        "events": [
+          {
+            "course": "LATIN3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "ECE186",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "PSY1",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "3314",
+        "events": [
+          {
+            "course": "COMM1",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "ECE157C",
+            "start": 900,
+            "end": 1070
+          },
+          {
+            "course": "ECE178",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "ECE272C",
+            "start": 900,
+            "end": 1070
+          },
+          {
+            "course": "PSY1",
+            "start": 750,
+            "end": 825
+          }
+        ]
+      },
+      {
+        "id": "3316",
+        "events": [
+          {
+            "course": "CMPSC130B",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "ECE186",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "INT187AH",
+            "start": 720,
+            "end": 830
+          },
+          {
+            "course": "INT187AK",
+            "start": 720,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "4101",
+        "events": [
+          {
+            "course": "CMPSC130B",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GLOBL130",
+            "start": 660,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "4103",
+        "events": [
+          {
+            "course": "GLOBL130",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "MCDB110",
+            "start": 660,
+            "end": 710
+          }
+        ]
+      },
+      {
+        "id": "4105",
+        "events": [
+          {
+            "course": "ECE162C",
+            "start": 540,
+            "end": 590
+          },
+          {
+            "course": "GLOBL110",
+            "start": 660,
+            "end": 710
+          },
+          {
+            "course": "MCDB110",
+            "start": 600,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "4107",
+        "events": [
+          {
+            "course": "COMM88",
+            "start": 660,
+            "end": 770
+          },
+          {
+            "course": "GLOBL110",
+            "start": 600,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "4205",
+        "events": [
+          {
+            "course": "COMM89",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "MCDB133L",
+            "start": 720,
+            "end": 770
+          }
+        ]
+      },
+      {
+        "id": "4207",
+        "events": [
+          {
+            "course": "COMM88",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "COMM88",
+            "start": 660,
+            "end": 770
+          },
+          {
+            "course": "MCDB118",
+            "start": 780,
+            "end": 830
+          }
+        ]
+      },
+      {
+        "id": "4209",
+        "events": [
+          {
+            "course": "COMM88",
+            "start": 540,
+            "end": 650
+          }
+        ]
+      },
+      {
+        "id": "4211",
+        "events": [
+          {
+            "course": "CHST1C",
+            "start": 600,
+            "end": 650
+          }
+        ]
+      }
+    ]
+  }
+]
