@@ -11,6 +11,11 @@
             "end": 735
           },
           {
+            "course": "ITAL20X",
+            "start": 930,
+            "end": 1005
+          },
+          {
             "course": "HIST88",
             "start": 570,
             "end": 645
@@ -19,6 +24,16 @@
             "course": "MCDB134",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "PSTAT120B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PSTAT122",
+            "start": 480,
+            "end": 555
           }
         ]
       },
@@ -59,6 +74,11 @@
             "course": "MCDB101B",
             "start": 480,
             "end": 530
+          },
+          {
+            "course": "PSTAT120A",
+            "start": 840,
+            "end": 915
           }
         ]
       },
@@ -74,6 +94,11 @@
             "course": "ECE139",
             "start": 660,
             "end": 735
+          },
+          {
+            "course": "FAMST166TS",
+            "start": 930,
+            "end": 1005
           },
           {
             "course": "MATH6B",
@@ -94,6 +119,11 @@
             "course": "SOC10",
             "start": 480,
             "end": 555
+          },
+          {
+            "course": "PSTAT10",
+            "start": 570,
+            "end": 645
           }
         ]
       },
@@ -129,6 +159,11 @@
             "course": "ECON5",
             "start": 660,
             "end": 710
+          },
+          {
+            "course": "ENVS193ST",
+            "start": 480,
+            "end": 555
           },
           {
             "course": "PHYS228",
@@ -226,6 +261,11 @@
             "end": 825
           },
           {
+            "course": "MUS17",
+            "start": 600,
+            "end": 650
+          },
+          {
             "course": "PSY145",
             "start": 840,
             "end": 915
@@ -235,6 +275,26 @@
       {
         "id": "3101",
         "events": [
+          {
+            "course": "GER3",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "GER6",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER101C",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "MUS175P",
+            "start": 1020,
+            "end": 1160
+          },
           {
             "course": "PHIL1",
             "start": 960,
@@ -264,6 +324,16 @@
             "course": "ECE594Z",
             "start": 1080,
             "end": 1190
+          },
+          {
+            "course": "GER3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER3",
+            "start": 660,
+            "end": 710
           },
           {
             "course": "LING137",
@@ -399,6 +469,11 @@
             "course": "PHIL1",
             "start": 1080,
             "end": 1130
+          },
+          {
+            "course": "RGST188C",
+            "start": 900,
+            "end": 1070
           }
         ]
       },
@@ -416,15 +491,30 @@
             "end": 735
           },
           {
+            "course": "ITAL114X",
+            "start": 660,
+            "end": 735
+          },
+          {
             "course": "LING32",
             "start": 1080,
             "end": 1130
+          },
+          {
+            "course": "RGST106",
+            "start": 570,
+            "end": 645
           }
         ]
       },
       {
         "id": "3211",
         "events": [
+          {
+            "course": "JAPAN3",
+            "start": 540,
+            "end": 590
+          },
           {
             "course": "LING125",
             "start": 1080,
@@ -434,6 +524,16 @@
             "course": "PHIL1",
             "start": 1020,
             "end": 1070
+          },
+          {
+            "course": "SPAN16B",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "RGST140A",
+            "start": 750,
+            "end": 825
           },
           {
             "course": "WRIT50E",
@@ -626,6 +726,11 @@
         "id": "4105",
         "events": [
           {
+            "course": "EARTH133",
+            "start": 750,
+            "end": 825
+          },
+          {
             "course": "EEMB290",
             "start": 660,
             "end": 710
@@ -650,6 +755,11 @@
       {
         "id": "4205",
         "events": [
+          {
+            "course": "KOR3",
+            "start": 660,
+            "end": 710
+          },
           {
             "course": "PSY155L",
             "start": 540,
@@ -694,6 +804,11 @@
             "course": "W&LCS143",
             "start": 780,
             "end": 890
+          },
+          {
+            "course": "RGST138",
+            "start": 660,
+            "end": 735
           }
         ]
       },
@@ -704,6 +819,16 @@
             "course": "CHST1C",
             "start": 780,
             "end": 830
+          },
+          {
+            "course": "IQB207",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "IQB226",
+            "start": 480,
+            "end": 560
           },
           {
             "course": "MCDB224",
@@ -721,6 +846,11 @@
         "id": "1101",
         "events": [
           {
+            "course": "BLST49C",
+            "start": 570,
+            "end": 645
+          },
+          {
             "course": "CLASS190",
             "start": 750,
             "end": 825
@@ -729,6 +859,11 @@
             "course": "CMPSC40",
             "start": 930,
             "end": 1005
+          },
+          {
+            "course": "ENVS155",
+            "start": 840,
+            "end": 915
           },
           {
             "course": "HIST49C",
@@ -774,6 +909,11 @@
             "course": "PSY108",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "PSTAT5LS",
+            "start": 930,
+            "end": 1005
           }
         ]
       },
@@ -851,6 +991,11 @@
         "id": "2207",
         "events": [
           {
+            "course": "ECON5",
+            "start": 1020,
+            "end": 1070
+          },
+          {
             "course": "TMP120",
             "start": 750,
             "end": 825
@@ -882,8 +1027,18 @@
           },
           {
             "course": "ECON5",
+            "start": 1140,
+            "end": 1190
+          },
+          {
+            "course": "ECON5",
             "start": 780,
             "end": 830
+          },
+          {
+            "course": "ENVS193TW",
+            "start": 660,
+            "end": 735
           },
           {
             "course": "ESS150",
@@ -969,6 +1124,16 @@
             "course": "MCDB253",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "RGST13",
+            "start": 1020,
+            "end": 1095
+          },
+          {
+            "course": "PSTAT5A",
+            "start": 570,
+            "end": 645
           }
         ]
       },
@@ -981,9 +1146,34 @@
             "end": 1130
           },
           {
+            "course": "GER3",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "GER6",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER101C",
+            "start": 660,
+            "end": 735
+          },
+          {
             "course": "GLOBL140",
             "start": 1140,
             "end": 1190
+          },
+          {
+            "course": "IQB206",
+            "start": 930,
+            "end": 1005
+          },
+          {
+            "course": "PSTAT232",
+            "start": 750,
+            "end": 825
           }
         ]
       },
@@ -999,6 +1189,16 @@
             "course": "ECON140A",
             "start": 1080,
             "end": 1130
+          },
+          {
+            "course": "GER3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER3",
+            "start": 660,
+            "end": 710
           },
           {
             "course": "GLOBL1",
@@ -1091,6 +1291,11 @@
             "end": 735
           },
           {
+            "course": "SPAN155B",
+            "start": 570,
+            "end": 645
+          },
+          {
             "course": "WRIT159B",
             "start": 840,
             "end": 915
@@ -1134,6 +1339,11 @@
             "course": "ME141B",
             "start": 660,
             "end": 735
+          },
+          {
+            "course": "SPAN6",
+            "start": 540,
+            "end": 650
           }
         ]
       },
@@ -1156,6 +1366,11 @@
             "end": 1010
           },
           {
+            "course": "IQB256",
+            "start": 840,
+            "end": 915
+          },
+          {
             "course": "MCDB256",
             "start": 840,
             "end": 915
@@ -1164,6 +1379,11 @@
             "course": "PHIL100F",
             "start": 1080,
             "end": 1130
+          },
+          {
+            "course": "RGST162A",
+            "start": 750,
+            "end": 825
           },
           {
             "course": "WRIT107J",
@@ -1211,9 +1431,19 @@
         "id": "3211",
         "events": [
           {
+            "course": "JAPAN3",
+            "start": 540,
+            "end": 590
+          },
+          {
             "course": "ECON140A",
             "start": 480,
             "end": 530
+          },
+          {
+            "course": "ITAL119B",
+            "start": 750,
+            "end": 825
           },
           {
             "course": "LING36",
@@ -1229,12 +1459,22 @@
             "course": "POLS139",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "PSTAT262DS",
+            "start": 660,
+            "end": 735
           }
         ]
       },
       {
         "id": "3310",
         "events": [
+          {
+            "course": "IQB258",
+            "start": 660,
+            "end": 735
+          },
           {
             "course": "MATRL286M",
             "start": 750,
@@ -1244,12 +1484,32 @@
             "course": "ME258",
             "start": 660,
             "end": 735
+          },
+          {
+            "course": "SPAN2",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "RGST138C",
+            "start": 840,
+            "end": 915
           }
         ]
       },
       {
         "id": "3312",
         "events": [
+          {
+            "course": "GER114",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "SLAV117J",
+            "start": 840,
+            "end": 915
+          },
           {
             "course": "LING108",
             "start": 1020,
@@ -1260,6 +1520,11 @@
       {
         "id": "3314",
         "events": [
+          {
+            "course": "SLAV35",
+            "start": 750,
+            "end": 825
+          },
           {
             "course": "PHIL1",
             "start": 600,
@@ -1299,6 +1564,11 @@
             "course": "MATH221C",
             "start": 750,
             "end": 825
+          },
+          {
+            "course": "SPAN186VM",
+            "start": 660,
+            "end": 735
           }
         ]
       },
@@ -1416,9 +1686,19 @@
         "id": "4205",
         "events": [
           {
+            "course": "KOR3",
+            "start": 660,
+            "end": 710
+          },
+          {
             "course": "ECON137AH",
             "start": 480,
             "end": 555
+          },
+          {
+            "course": "IQB201B",
+            "start": 570,
+            "end": 645
           },
           {
             "course": "WRIT2",
@@ -1434,6 +1714,11 @@
             "course": "W&LCS141B",
             "start": 540,
             "end": 650
+          },
+          {
+            "course": "ENVS2H",
+            "start": 660,
+            "end": 710
           },
           {
             "course": "PHIL1",
@@ -1459,6 +1744,11 @@
             "course": "HIST174Q",
             "start": 780,
             "end": 950
+          },
+          {
+            "course": "PSTAT230",
+            "start": 1020,
+            "end": 1095
           }
         ]
       },
@@ -1471,9 +1761,19 @@
             "end": 950
           },
           {
+            "course": "IQB226",
+            "start": 480,
+            "end": 560
+          },
+          {
             "course": "MCDB224",
             "start": 480,
             "end": 560
+          },
+          {
+            "course": "SPAN3",
+            "start": 780,
+            "end": 890
           },
           {
             "course": "WRIT2",
@@ -1496,6 +1796,11 @@
             "end": 735
           },
           {
+            "course": "ITAL20X",
+            "start": 930,
+            "end": 1005
+          },
+          {
             "course": "HIST88",
             "start": 570,
             "end": 645
@@ -1504,6 +1809,16 @@
             "course": "MCDB134",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "PSTAT120B",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "PSTAT122",
+            "start": 480,
+            "end": 555
           }
         ]
       },
@@ -1544,6 +1859,11 @@
             "course": "MCDB101B",
             "start": 480,
             "end": 530
+          },
+          {
+            "course": "PSTAT120A",
+            "start": 840,
+            "end": 915
           }
         ]
       },
@@ -1561,6 +1881,11 @@
             "end": 735
           },
           {
+            "course": "FAMST166TS",
+            "start": 930,
+            "end": 1005
+          },
+          {
             "course": "MATH6B",
             "start": 750,
             "end": 825
@@ -1574,6 +1899,11 @@
             "course": "SOC10",
             "start": 480,
             "end": 555
+          },
+          {
+            "course": "PSTAT10",
+            "start": 570,
+            "end": 645
           }
         ]
       },
@@ -1619,6 +1949,11 @@
             "course": "ECON5",
             "start": 660,
             "end": 710
+          },
+          {
+            "course": "ENVS193ST",
+            "start": 480,
+            "end": 555
           },
           {
             "course": "PHYS228",
@@ -1721,6 +2056,11 @@
             "end": 825
           },
           {
+            "course": "MUS17",
+            "start": 600,
+            "end": 650
+          },
+          {
             "course": "PSY145",
             "start": 840,
             "end": 915
@@ -1730,6 +2070,21 @@
       {
         "id": "3101",
         "events": [
+          {
+            "course": "GER3",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "GER6",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER101C",
+            "start": 750,
+            "end": 825
+          },
           {
             "course": "GLOBL2",
             "start": 1080,
@@ -1769,6 +2124,16 @@
             "course": "ECE594Z",
             "start": 1080,
             "end": 1190
+          },
+          {
+            "course": "GER3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER3",
+            "start": 660,
+            "end": 710
           },
           {
             "course": "MATH34A",
@@ -1951,6 +2316,11 @@
             "end": 735
           },
           {
+            "course": "ITAL114X",
+            "start": 660,
+            "end": 735
+          },
+          {
             "course": "LAIS165",
             "start": 840,
             "end": 1010
@@ -1969,12 +2339,27 @@
             "course": "PHIL4",
             "start": 1080,
             "end": 1130
+          },
+          {
+            "course": "SPAN165",
+            "start": 840,
+            "end": 1010
+          },
+          {
+            "course": "RGST106",
+            "start": 570,
+            "end": 645
           }
         ]
       },
       {
         "id": "3211",
         "events": [
+          {
+            "course": "JAPAN3",
+            "start": 540,
+            "end": 590
+          },
           {
             "course": "MATH34A",
             "start": 480,
@@ -1989,6 +2374,16 @@
             "course": "PHIL183",
             "start": 1020,
             "end": 1070
+          },
+          {
+            "course": "SPAN16B",
+            "start": 840,
+            "end": 950
+          },
+          {
+            "course": "RGST140A",
+            "start": 750,
+            "end": 825
           },
           {
             "course": "WRIT50E",
@@ -2206,6 +2601,11 @@
             "end": 590
           },
           {
+            "course": "EARTH133",
+            "start": 750,
+            "end": 825
+          },
+          {
             "course": "EEMB290",
             "start": 660,
             "end": 710
@@ -2240,6 +2640,11 @@
       {
         "id": "4205",
         "events": [
+          {
+            "course": "KOR3",
+            "start": 660,
+            "end": 710
+          },
           {
             "course": "ENGL15",
             "start": 540,
@@ -2289,6 +2694,11 @@
             "course": "ENGL115",
             "start": 540,
             "end": 590
+          },
+          {
+            "course": "RGST138",
+            "start": 660,
+            "end": 735
           }
         ]
       },
@@ -2306,6 +2716,16 @@
             "end": 950
           },
           {
+            "course": "IQB207",
+            "start": 570,
+            "end": 645
+          },
+          {
+            "course": "IQB226",
+            "start": 480,
+            "end": 560
+          },
+          {
             "course": "MCDB224",
             "start": 480,
             "end": 560
@@ -2321,6 +2741,11 @@
         "id": "1101",
         "events": [
           {
+            "course": "BLST49C",
+            "start": 570,
+            "end": 645
+          },
+          {
             "course": "CLASS190",
             "start": 750,
             "end": 825
@@ -2329,6 +2754,11 @@
             "course": "CMPSC40",
             "start": 930,
             "end": 1005
+          },
+          {
+            "course": "ENVS155",
+            "start": 840,
+            "end": 915
           },
           {
             "course": "HIST49C",
@@ -2374,6 +2804,11 @@
             "course": "PSY108",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "PSTAT5LS",
+            "start": 930,
+            "end": 1005
           }
         ]
       },
@@ -2461,6 +2896,11 @@
         "id": "2207",
         "events": [
           {
+            "course": "ECON5",
+            "start": 1020,
+            "end": 1070
+          },
+          {
             "course": "TMP120",
             "start": 750,
             "end": 825
@@ -2489,6 +2929,11 @@
             "course": "ECON5",
             "start": 780,
             "end": 830
+          },
+          {
+            "course": "ENVS193TW",
+            "start": 660,
+            "end": 735
           },
           {
             "course": "ESS150",
@@ -2574,6 +3019,16 @@
             "course": "MCDB253",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "RGST13",
+            "start": 1020,
+            "end": 1095
+          },
+          {
+            "course": "PSTAT5A",
+            "start": 570,
+            "end": 645
           }
         ]
       },
@@ -2581,20 +3036,55 @@
         "id": "3101",
         "events": [
           {
+            "course": "GER3",
+            "start": 840,
+            "end": 890
+          },
+          {
+            "course": "GER6",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER101C",
+            "start": 660,
+            "end": 735
+          },
+          {
             "course": "GLOBL140",
             "start": 1140,
             "end": 1190
           },
           {
+            "course": "IQB206",
+            "start": 930,
+            "end": 1005
+          },
+          {
             "course": "MCDB110",
             "start": 1020,
             "end": 1070
+          },
+          {
+            "course": "PSTAT232",
+            "start": 750,
+            "end": 825
           }
         ]
       },
       {
         "id": "3103",
         "events": [
+          {
+            "course": "GER3",
+            "start": 600,
+            "end": 650
+          },
+          {
+            "course": "GER3",
+            "start": 660,
+            "end": 710
+          },
           {
             "course": "GLOBL1",
             "start": 1140,
@@ -2646,6 +3136,11 @@
             "end": 1130
           },
           {
+            "course": "SPAN30",
+            "start": 780,
+            "end": 830
+          },
+          {
             "course": "WRIT2",
             "start": 540,
             "end": 650
@@ -2666,6 +3161,11 @@
             "end": 530
           },
           {
+            "course": "ENVS155",
+            "start": 960,
+            "end": 1010
+          },
+          {
             "course": "MATH225C",
             "start": 750,
             "end": 825
@@ -2679,6 +3179,11 @@
             "course": "PHYS180",
             "start": 660,
             "end": 735
+          },
+          {
+            "course": "SPAN155B",
+            "start": 570,
+            "end": 645
           },
           {
             "course": "WRIT159B",
@@ -2701,6 +3206,11 @@
             "end": 735
           },
           {
+            "course": "ENVS153",
+            "start": 960,
+            "end": 1010
+          },
+          {
             "course": "HIST9",
             "start": 840,
             "end": 915
@@ -2719,12 +3229,27 @@
             "course": "ME141B",
             "start": 660,
             "end": 735
+          },
+          {
+            "course": "SPAN6",
+            "start": 540,
+            "end": 650
           }
         ]
       },
       {
         "id": "3207",
         "events": [
+          {
+            "course": "ENVS115",
+            "start": 960,
+            "end": 1010
+          },
+          {
+            "course": "IQB256",
+            "start": 840,
+            "end": 915
+          },
           {
             "course": "MCDB256",
             "start": 840,
@@ -2734,6 +3259,11 @@
             "course": "PHIL100B",
             "start": 1080,
             "end": 1130
+          },
+          {
+            "course": "RGST162A",
+            "start": 750,
+            "end": 825
           },
           {
             "course": "WRIT107J",
@@ -2796,20 +3326,45 @@
             "end": 650
           },
           {
+            "course": "JAPAN3",
+            "start": 540,
+            "end": 590
+          },
+          {
             "course": "EEMB102",
             "start": 960,
             "end": 1010
           },
           {
+            "course": "ENVS155",
+            "start": 1020,
+            "end": 1070
+          },
+          {
+            "course": "ITAL119B",
+            "start": 750,
+            "end": 825
+          },
+          {
             "course": "POLS139",
             "start": 840,
             "end": 915
+          },
+          {
+            "course": "PSTAT262DS",
+            "start": 660,
+            "end": 735
           }
         ]
       },
       {
         "id": "3310",
         "events": [
+          {
+            "course": "IQB258",
+            "start": 660,
+            "end": 735
+          },
           {
             "course": "MATRL286M",
             "start": 750,
@@ -2819,6 +3374,16 @@
             "course": "ME258",
             "start": 660,
             "end": 735
+          },
+          {
+            "course": "SPAN2",
+            "start": 540,
+            "end": 650
+          },
+          {
+            "course": "RGST138C",
+            "start": 840,
+            "end": 915
           },
           {
             "course": "SOC1",
@@ -2839,6 +3404,16 @@
             "course": "CHEM1A",
             "start": 600,
             "end": 650
+          },
+          {
+            "course": "GER114",
+            "start": 750,
+            "end": 825
+          },
+          {
+            "course": "SLAV117J",
+            "start": 840,
+            "end": 915
           }
         ]
       },
@@ -2849,6 +3424,11 @@
             "course": "ANTH2",
             "start": 540,
             "end": 590
+          },
+          {
+            "course": "SLAV35",
+            "start": 750,
+            "end": 825
           },
           {
             "course": "PHIL3",
@@ -2894,6 +3474,11 @@
             "course": "MATH221C",
             "start": 750,
             "end": 825
+          },
+          {
+            "course": "SPAN186VM",
+            "start": 660,
+            "end": 735
           }
         ]
       },
@@ -3016,6 +3601,11 @@
             "end": 950
           },
           {
+            "course": "KOR3",
+            "start": 660,
+            "end": 710
+          },
+          {
             "course": "ECON137AH",
             "start": 480,
             "end": 555
@@ -3024,6 +3614,11 @@
             "course": "ECON137BH",
             "start": 480,
             "end": 555
+          },
+          {
+            "course": "IQB201B",
+            "start": 570,
+            "end": 645
           },
           {
             "course": "WRIT2",
@@ -3049,6 +3644,11 @@
             "course": "CHEM1A",
             "start": 660,
             "end": 710
+          },
+          {
+            "course": "ENVS115",
+            "start": 840,
+            "end": 890
           },
           {
             "course": "MCDB110",
@@ -3079,6 +3679,11 @@
             "course": "ASTRO1H",
             "start": 570,
             "end": 645
+          },
+          {
+            "course": "PSTAT230",
+            "start": 1020,
+            "end": 1095
           }
         ]
       },
@@ -3091,9 +3696,19 @@
             "end": 950
           },
           {
+            "course": "IQB226",
+            "start": 480,
+            "end": 560
+          },
+          {
             "course": "MCDB224",
             "start": 480,
             "end": 560
+          },
+          {
+            "course": "SPAN3",
+            "start": 780,
+            "end": 890
           },
           {
             "course": "WRIT2",
@@ -3211,6 +3826,11 @@
             "course": "MCDB1A",
             "start": 540,
             "end": 590
+          },
+          {
+            "course": "MUS17",
+            "start": 600,
+            "end": 650
           }
         ]
       },
@@ -3266,6 +3886,11 @@
             "course": "ECE594F",
             "start": 840,
             "end": 950
+          },
+          {
+            "course": "ENVS115",
+            "start": 600,
+            "end": 650
           },
           {
             "course": "MCDB110",
@@ -3361,6 +3986,11 @@
             "course": "COMM1",
             "start": 600,
             "end": 650
+          },
+          {
+            "course": "JAPAN3",
+            "start": 540,
+            "end": 590
           },
           {
             "course": "GLOBL110",
@@ -3501,6 +4131,11 @@
             "course": "COMM89",
             "start": 540,
             "end": 650
+          },
+          {
+            "course": "KOR3",
+            "start": 660,
+            "end": 710
           }
         ]
       },
