@@ -1246,6 +1246,11 @@
         "id": "3101",
         "events": [
           {
+            "course": "BIOE244",
+            "start": 930,
+            "end": 1005
+          },
+          {
             "course": "ECON140A",
             "start": 1080,
             "end": 1130
@@ -1481,6 +1486,11 @@
             "end": 530
           },
           {
+            "course": "BIOE256",
+            "start": 840,
+            "end": 915
+          },
+          {
             "course": "ECON140A",
             "start": 1020,
             "end": 1070
@@ -1605,6 +1615,11 @@
       {
         "id": "3310",
         "events": [
+          {
+            "course": "BIOE258",
+            "start": 660,
+            "end": 735
+          },
           {
             "course": "IQB258",
             "start": 660,
@@ -2230,6 +2245,11 @@
       {
         "id": "3101",
         "events": [
+          {
+            "course": "BIOE201",
+            "start": 930,
+            "end": 1005
+          },
           {
             "course": "GER3",
             "start": 840,
@@ -3336,6 +3356,11 @@
         "id": "3101",
         "events": [
           {
+            "course": "BIOE244",
+            "start": 930,
+            "end": 1005
+          },
+          {
             "course": "ECON10A",
             "start": 1080,
             "end": 1130
@@ -3556,6 +3581,11 @@
         "id": "3207",
         "events": [
           {
+            "course": "BIOE256",
+            "start": 840,
+            "end": 915
+          },
+          {
             "course": "ECON10A",
             "start": 480,
             "end": 530
@@ -3675,6 +3705,11 @@
       {
         "id": "3310",
         "events": [
+          {
+            "course": "BIOE258",
+            "start": 660,
+            "end": 735
+          },
           {
             "course": "IQB258",
             "start": 660,
@@ -4287,11 +4322,6 @@
             "course": "ECE594F",
             "start": 840,
             "end": 950
-          },
-          {
-            "course": "ENVS115",
-            "start": 600,
-            "end": 650
           },
           {
             "course": "MCDB110",
